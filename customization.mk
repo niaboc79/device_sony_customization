@@ -183,3 +183,5 @@ DEXPREOPT_GENERATE_APEX_IMAGE := true
 TARGET_USE_QCRILD := true
 
 -include vendor/havoc/config/common_full_phone.mk
+
+-include vendor/lineage/config/common_full_phone.mk
